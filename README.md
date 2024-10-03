@@ -1,6 +1,8 @@
 # Implementando Modo Escuro
 
+![modo dark](https://github.com/user-attachments/assets/2f2d4e2f-4929-4868-9466-ea80bdcb34c4)
 Este projeto demonstra a implementação de um sistema de alternância entre modo claro e modo escuro em uma página web simples.
+
 
 ## Descrição
 
